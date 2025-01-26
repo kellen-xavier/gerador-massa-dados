@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 fake = "3.1.0"
 spider_cli = "2.26.25"
+rand = "0.8.5"

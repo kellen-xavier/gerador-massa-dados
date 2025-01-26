@@ -897,6 +897,7 @@ name = "gerador-massa-dados"
 version = "0.1.0"
 dependencies = [
  "fake",
+ "rand 0.8.5",
  "spider_cli",
 ]
 
